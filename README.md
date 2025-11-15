@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2C5F8D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachdi-med-amine)
 [![Email](https://img.shields.io/badge/Email-1A3A52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachdimedamine@gmail.com)
 
----
-
 </div>
 
 ## 📊 GitHub Analytics
@@ -21,42 +19,52 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachdiMedAmine&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&icon_color=2C5F8D&border_color=1A3A52&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachdiMedAmine&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&border_color=1A3A52&hide_border=true" />
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=RachdiMedAmine&theme=tokyonight&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=1A3A52&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
-
-Third-year Computer Engineering student at **ENSIT**, specializing in **Cloud Technologies** and **Cybersecurity**. I'm passionate about building secure, scalable systems that make a real-world impact. My work spans full-stack development, cloud-native architectures, and security-first design principles.
-
-Currently based in **Tunis, Tunisia**, I'm exploring the intersection of modern web technologies, cloud infrastructure, and intelligent systems. Whether it's crafting seamless user experiences or hardening backend services, I approach every project with a focus on quality, security, and scalability.
-
-**What drives me:** Creating solutions that are not only functional but also secure by design, learning emerging technologies, and contributing to projects that challenge the status quo.
-
-## 💼 Experience Highlights
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🚀 Current Focus**
-- Cloud-native architectures
-- Security-first development
-- Modern web technologies
-- Microservices & REST APIs
+### 🎓 Background
+- 3rd year **Computer Engineering** @ ENSIT
+- Specializing in **Cloud** & **Cybersecurity**
+- Based in **Tunis, Tunisia**
+- Fluent in Arabic, French (C1), English (C1)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎓 Continuous Learning**
-- Advanced cloud security
-- AI/ML integration & MLOps
-- DevOps best practices
-- System design patterns
+### 🎯 Focus Areas
+- Full-stack web development (MERN, Next.js)
+- Cloud-native architectures & microservices
+- Security-first design & vulnerability testing
+- MLOps pipelines & AI integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 What I'm Into
+- Building **scalable** & **secure** systems
+- Exploring **cloud security** patterns
+- Creating **modern web** experiences
+- Contributing to **open-source** projects
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Currently
+- Developing e-learning platforms
+- Experimenting with cloud security tools
+- Learning MLOps & model deployment
+- Seeking internship opportunities
 
 </td>
 </tr>
@@ -110,27 +118,6 @@ Currently based in **Tunis, Tunisia**, I'm exploring the intersection of modern 
 
 </details>
 
-## 🎯 Current Endeavors
-```yaml
-🔭 Working On:
-  - Cloud-native web applications
-  - Security-focused microservices
-  - Full-stack e-learning platforms
-  - MLOps pipelines & automation
-  
-🌱 Learning:
-  - Advanced Kubernetes orchestration
-  - Zero-trust architecture patterns
-  - AI/ML model deployment at scale
-  - Cloud security posture management
-  
-👯 Looking to Collaborate:
-  - Open-source security tools
-  - Cloud infrastructure projects
-  - Educational technology platforms
-  - Developer productivity tools
-```
-
 ## 🏆 Certifications
 
 <div align="center">
@@ -145,7 +132,7 @@ Currently based in **Tunis, Tunisia**, I'm exploring the intersection of modern 
 
 <div align="center">
 
-**Open to collaborations, internship opportunities, and interesting tech conversations**
+**Open to collaborations, internship opportunities, and tech conversations**
 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-2C5F8D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachdi-med-amine)
 [![Email](https://img.shields.io/badge/Direct_Contact-1A3A52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachdimedamine@gmail.com)
