@@ -14,19 +14,30 @@
 
 </div>
 
-## 🎯 About Me
-```typescript
-const rachdi = {
-    location: "Tunis, Tunisia",
-    education: "Computer Engineering @ ENSIT",
-    specialization: ["Cloud Technologies", "Cybersecurity"],
-    currentFocus: "Building secure, scalable systems",
-    interests: ["Full-Stack Development", "Cloud Security", "MLOps"],
-    lifePhilosophy: "Code with purpose, secure by design"
-};
-```
+## 📊 GitHub Analytics
 
-## 💼 Professional Journey
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachdiMedAmine&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&icon_color=2C5F8D&border_color=1A3A52&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachdiMedAmine&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&border_color=1A3A52&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RachdiMedAmine&theme=tokyonight&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=1A3A52&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 👨‍💻 About Me
+
+Third-year Computer Engineering student at **ENSIT**, specializing in **Cloud Technologies** and **Cybersecurity**. I'm passionate about building secure, scalable systems that make a real-world impact. My work spans full-stack development, cloud-native architectures, and security-first design principles.
+
+Currently based in **Tunis, Tunisia**, I'm exploring the intersection of modern web technologies, cloud infrastructure, and intelligent systems. Whether it's crafting seamless user experiences or hardening backend services, I approach every project with a focus on quality, security, and scalability.
+
+**What drives me:** Creating solutions that are not only functional but also secure by design, learning emerging technologies, and contributing to projects that challenge the status quo.
+
+## 💼 Experience Highlights
 
 <table>
 <tr>
@@ -36,14 +47,14 @@ const rachdi = {
 - Cloud-native architectures
 - Security-first development
 - Modern web technologies
-- Microservices & APIs
+- Microservices & REST APIs
 
 </td>
 <td width="50%">
 
 **🎓 Continuous Learning**
 - Advanced cloud security
-- AI/ML integration
+- AI/ML integration & MLOps
 - DevOps best practices
 - System design patterns
 
@@ -67,6 +78,7 @@ const rachdi = {
 ![Angular](https://img.shields.io/badge/Angular-2C5F8D?style=flat-square&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4A9EFF?style=flat-square&logo=spring-boot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1A3A52?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-2C5F8D?style=flat-square&logo=nestjs&logoColor=white)
 
 </details>
 
@@ -80,6 +92,8 @@ const rachdi = {
 ![Docker](https://img.shields.io/badge/Docker-2C5F8D?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4A9EFF?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1A3A52?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-2C5F8D?style=flat-square&logo=mlflow&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-4A9EFF?style=flat-square&logo=grafana&logoColor=white)
 
 </details>
 
@@ -89,26 +103,12 @@ const rachdi = {
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-2C5F8D?style=flat-square&logo=wazuh&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A9EFF?style=flat-square&logo=burp-suite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-1A3A52?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-2C5F8D?style=flat-square&logo=oauth&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-4A9EFF?style=flat-square&logo=postman&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-1A3A52?style=flat-square&logo=microsoft&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-2C5F8D?style=flat-square&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4A9EFF?style=flat-square&logo=oauth&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1A3A52?style=flat-square&logo=postman&logoColor=white)
 
 </details>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachdiMedAmine&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&icon_color=2C5F8D&border_color=1A3A52&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachdiMedAmine&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&border_color=1A3A52&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RachdiMedAmine&theme=tokyonight&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=1A3A52&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ## 🎯 Current Endeavors
 ```yaml
@@ -116,16 +116,19 @@ const rachdi = {
   - Cloud-native web applications
   - Security-focused microservices
   - Full-stack e-learning platforms
+  - MLOps pipelines & automation
   
 🌱 Learning:
   - Advanced Kubernetes orchestration
-  - MLOps pipelines & deployment
   - Zero-trust architecture patterns
+  - AI/ML model deployment at scale
+  - Cloud security posture management
   
 👯 Looking to Collaborate:
   - Open-source security tools
   - Cloud infrastructure projects
   - Educational technology platforms
+  - Developer productivity tools
 ```
 
 ## 🏆 Certifications
@@ -142,7 +145,7 @@ const rachdi = {
 
 <div align="center">
 
-**Open to collaborations, freelance opportunities, and interesting conversations**
+**Open to collaborations, internship opportunities, and interesting tech conversations**
 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-2C5F8D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachdi-med-amine)
 [![Email](https://img.shields.io/badge/Direct_Contact-1A3A52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachdimedamine@gmail.com)
