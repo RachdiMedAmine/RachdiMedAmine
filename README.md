@@ -12,11 +12,10 @@
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachdiMedAmine&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&icon_color=2C5F8D&border_color=1A3A52&hide_border=true" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachdiMedAmine&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&border_color=1A3A52&hide_border=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RachdiMedAmine&theme=tokyonight&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=1A3A52&hide_border=true)](https://git.io/streak-stats)
